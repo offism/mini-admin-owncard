@@ -10,6 +10,7 @@ function App() {
     <div className="app w-50 mx-auto">
      <Counter/>
      <ToggleP/>
+     <hr/>
      <InputVal/>
     </div>    
    </>
